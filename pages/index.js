@@ -19,7 +19,7 @@ export default function Home() {
         <div className={styles.description}>
           <p>
             <a
-              href="https://www.github.com"
+              href="https://github.com/scotttennison/CS5513-Week14-2023-ScottTennison"
               rel="noopener noreferrer"
             >
               <Image
