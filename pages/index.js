@@ -34,7 +34,7 @@ export default function Home() {
           </p>
           <div>
             <a
-              href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+              href="cs-5513-week14-2023-scott-ten-git-f52631-scottennison7-gmailcom.vercel.app"
               rel="noopener noreferrer"
             >
               By{' '}
